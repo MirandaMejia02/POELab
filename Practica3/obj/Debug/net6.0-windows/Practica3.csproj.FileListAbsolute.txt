@@ -1,0 +1,17 @@
+C:\Users\PC\Downloads\Practica3\bin\Debug\net6.0-windows\Practica3.exe
+C:\Users\PC\Downloads\Practica3\bin\Debug\net6.0-windows\Practica3.deps.json
+C:\Users\PC\Downloads\Practica3\bin\Debug\net6.0-windows\Practica3.runtimeconfig.json
+C:\Users\PC\Downloads\Practica3\bin\Debug\net6.0-windows\Practica3.dll
+C:\Users\PC\Downloads\Practica3\bin\Debug\net6.0-windows\Practica3.pdb
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.Form1.resources
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.AssemblyInfo.cs
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.dll
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\refint\Practica3.dll
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.pdb
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.genruntimeconfig.cache
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\ref\Practica3.dll
+C:\Users\PC\Downloads\Practica3\obj\Debug\net6.0-windows\Practica3.formulario.resources
